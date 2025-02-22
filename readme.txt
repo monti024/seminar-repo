@@ -8,3 +8,4 @@ rebase 1
 rebase 2
 rebase 3
 stash 1
+Was geht? -> Aufgabe 3
